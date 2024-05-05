@@ -10,12 +10,12 @@ The original codebase was obtained from the GitHub repository of the paper's aut
 
 For more details about our reproduction study, please refer to the following resources:
 
-Presentation [TODO]
-Final Report [TODO]
+* Presentation [TODO]
+* Final Report [TODO]
 
 <br/>
-[1] Paper Link: https://www.mlforhc.org/s/ID145_Research-Paper_2023.pdf
-[2] https://github.com/aanaseer/ScoEHR
+* [1] Paper Link: https://www.mlforhc.org/s/ID145_Research-Paper_2023.pdf
+* [2] https://github.com/aanaseer/ScoEHR
 
 ## Requirements and Dependencies
 
@@ -23,7 +23,7 @@ Running the code requires Python 3. <br/>
 All the requirements are documented in requirements.txt.<br/>
 If you want to run the code directly on your local machine, install the required dependencies below:
 ```
-$ pip install torchsde
+$ pip3 install -r requirements.txt
 ```
 
 
@@ -38,3 +38,6 @@ In order to run this notebook, you will need to:
 2. Ensure you have added the MIMIC-III data files into the `./mimic/` folder (detailed instructions in the Data sub-section).  We are using MIMIC-III dataset from physionet -> https://physionet.org/content/mimiciii/1.4/. Please follow the instructions in piazza post #338 to access the MIMIC-III dataset. Download and decompress the following two csv files and place them in the `./mimic` folder:
 - `ADMISSIONS.csv`
 - `DIAGNOSES_ICD.csv`
+
+## Additional Instructions
+Please review the 'Team_97-Final Project Report.ipynb' notebook for sections covering data downloading, model training, and results analysis.
