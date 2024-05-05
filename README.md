@@ -5,14 +5,17 @@
 * Paper: 33 - ScoEHR: Generating Synthetic Electronic Health Records using Continuous-time Diffusion Models[1]
 
 ## Introduction
-This repository includes code for a reproduction study and additional ablations related to the paper titled 'Generating Synthetic Electronic Health Records using Continuous-time Diffusion Models' [1]. 
-The original codebase was obtained from the GitHub repository of the paper's authors (https://github.com/aanaseer/ScoEHR).
+This repository includes code for a reproduction study and additional ablations related to the paper titled 'Generating Synthetic Electronic Health Records using Continuous-time Diffusion Models' [1].<br/>
+The original codebase was obtained from the GitHub repository of the paper's authors [2] 
 
 For more details about our reproduction study, please refer to the following resources:
 
 Presentation [TODO]
 Final Report [TODO]
-[1] Paper Link: https://www.mlforhc.org/s/ID145_Research-Paper_2023.pdf"
+
+<br/>
+[1] Paper Link: https://www.mlforhc.org/s/ID145_Research-Paper_2023.pdf
+[2] https://github.com/aanaseer/ScoEHR
 
 ## Requirements and Dependencies
 
