@@ -40,4 +40,4 @@ In order to run this notebook, you will need to:
 - `DIAGNOSES_ICD.csv`
 
 ## Additional Instructions
-Please review the 'Team_97-Final Project Report.ipynb' notebook for sections covering data downloading, model training, and results analysis.
+Please review the 'Team_97.ipynb' notebook for sections covering data downloading, model training, and results analysis.
