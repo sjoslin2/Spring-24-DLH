@@ -4,6 +4,16 @@
 * Team Members: Cody Talmadge(codytt2@illinois.edu), Seth Joslin (sjoslin2@illnois.edu), and Sree Alaparthi (sa68@illinois.edu)
 * Paper: 33 - ScoEHR: Generating Synthetic Electronic Health Records using Continuous-time Diffusion Models[1]
 
+## Introduction
+This repository includes code for a reproduction study and additional ablations related to the paper titled 'Generating Synthetic Electronic Health Records using Continuous-time Diffusion Models' [1]. 
+The original codebase was obtained from the GitHub repository of the paper's authors (https://github.com/aanaseer/ScoEHR).
+
+For more details about our reproduction study, please refer to the following resources:
+
+Presentation [TODO]
+Final Report [TODO]
+[1] Paper Link: https://www.mlforhc.org/s/ID145_Research-Paper_2023.pdf"
+
 ## Requirements and Dependencies
 
 Running the code requires Python 3. <br/>
