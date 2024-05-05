@@ -6,10 +6,13 @@
 
 ## Requirements and Dependencies
 
-Running the code requires Python 3. If you want to run the code directly on your local machine, install the required dependencies below:
+Running the code requires Python 3. 
+All the requirements are documented in requirements.txt.
+If you want to run the code directly on your local machine, install the required dependencies below:
 ```
 $ pip install torchsde
 ```
+
 
 ## Manual Setup Needed
 In order to run this notebook, you will need to:
