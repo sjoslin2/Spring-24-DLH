@@ -13,7 +13,6 @@ For more details about our reproduction study, please refer to the following res
 * Presentation [Video Presentation](https://drive.google.com/file/d/1-44eZ1X_3JA6lhmW0lIfsQZrf1oo_NGo/view)
 * Final Report [Team_97.pdf](https://github.com/sjoslin2/Spring-24-DLH/blob/main/Team_97.pdf)
 
-<br/>
 * [1] Paper Link: https://www.mlforhc.org/s/ID145_Research-Paper_2023.pdf
 * [2] https://github.com/aanaseer/ScoEHR
 
